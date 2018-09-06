@@ -1,0 +1,230 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "gahq-xm5j",
+      "name" : "Zonas de alto riesgo por desastres Naturales",
+      "attribution" : "Secretaría de Infraestructura",
+      "averageRating" : 0,
+      "category" : "Vivienda, Ciudad y Territorio",
+      "createdAt" : 1536187040,
+      "description" : "Se evidencian los municipios que se encuentran en un nivel riesgo alto o bajo según su ubicación geográfica en el Departamento de Sucre.",
+      "displayType" : "table",
+      "downloadCount" : 3,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1536187510,
+      "licenseId" : "CC_40_BY_SA",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 29634222,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1536187487,
+      "publicationGroup" : 15495326,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1536187487,
+      "rowsUpdatedBy" : "diut-makj",
+      "tableId" : 15495326,
+      "totalTimesRated" : 0,
+      "viewCount" : 11,
+      "viewLastModified" : 1536187487,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 373753088,
+        "name" : "Municipio",
+        "dataTypeName" : "text",
+        "description" : "Nombre del municipio que se encuentra en riesgo",
+        "fieldName" : "municipio",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 69025943,
+        "format" : { }
+      }, {
+        "id" : 373753061,
+        "name" : "Tipo de riesgo",
+        "dataTypeName" : "text",
+        "description" : "Descripción del tipo de riesgo que corre el municipio",
+        "fieldName" : "tipo_de_riesgo",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 69025942,
+        "format" : { }
+      }, {
+        "id" : 373753060,
+        "name" : "Alta",
+        "dataTypeName" : "text",
+        "description" : "Probabilidad o nivel de riesgo que corre el municipio",
+        "fieldName" : "alta",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 69025941,
+        "format" : { }
+      }, {
+        "id" : 373753059,
+        "name" : "N/A",
+        "dataTypeName" : "text",
+        "description" : "No aplica criterios referidos para el municipio.",
+        "fieldName" : "n_a",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 69025940,
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Creative Commons Attribution | Share Alike 4.0 International",
+        "logoUrl" : "images/licenses/cc30bysa.png",
+        "termsLink" : "http://creativecommons.org/licenses/by-sa/4.0/legalcode"
+      },
+      "metadata" : {
+        "attachments" : [ {
+          "filename" : "Zonas de alto riesgo por desastres Naturales.xlsx",
+          "assetId" : "42e0046a-1959-4ccb-aa1f-51ae571ad8ad",
+          "name" : "Zonas de alto riesgo por desastres Naturales.xlsx"
+        } ],
+        "custom_fields" : {
+          "Información de la Entidad" : {
+            "Municipio" : "Sincelejo",
+            "Nombre de la Entidad" : "Gobernación de Sucre",
+            "Orden" : "Territorial",
+            "Sector" : "Vivienda Ciudad y Territorio",
+            "Área o dependencia" : "Secretaría de Infraestructura",
+            "Departamento" : "Sucre"
+          },
+          "Información de Datos" : {
+            "Cobertura Geográfica" : "Departamental",
+            "Idioma" : "Español",
+            "Frecuencia de Actualización" : "Anual",
+            "Fecha Emisión (aaaa-mm-dd)" : "05-09-2018"
+          }
+        },
+        "rowLabel" : "municipios, tipos de riesgos, nivel de riesgo",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "diut-makj",
+        "displayName" : "GELSUCRE",
+        "profileImageUrlLarge" : "/api/users/diut-makj/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/diut-makj/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/diut-makj/profile_images/TINY",
+        "screenName" : "GELSUCRE",
+        "type" : "interactive"
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "diut-makj",
+        "displayName" : "GELSUCRE",
+        "profileImageUrlLarge" : "/api/users/diut-makj/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/diut-makj/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/diut-makj/profile_images/TINY",
+        "screenName" : "GELSUCRE",
+        "type" : "interactive"
+      },
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ 1, "C76E6E97-CB82-4633-B446-0A0E666C7BF0", 1, 1536187487, "973530", 1536187487, "973530", null, "Sincelejo", "Inundaciones, vientos huracanados, incendios de cobertura vegetal", "N/A", "Media" ]
+, [ 2, "42A499FC-EAFD-4109-B0B5-B3146E8BCC2F", 2, 1536187487, "973530", 1536187487, "973530", null, "Buenavista", "Vientos, sequias", "Alta", "N/A" ]
+, [ 3, "387B1B2C-7D7D-47C9-A827-7BED0FDD6D4A", 3, 1536187487, "973530", 1536187487, "973530", null, "Caimito", "Inundaciones, vientos huracanados, Sismo", "Alta", "N/A" ]
+, [ 4, "14E6B9D1-2A17-495F-B8D4-FF90835E3558", 4, 1536187487, "973530", 1536187487, "973530", null, "Coloso", "Vientos huracanados, sequias deslizamientos", "N/A", "Media" ]
+, [ 5, "A3BBC963-A463-4D0F-A5EC-9023F35EBD52", 5, 1536187487, "973530", 1536187487, "973530", null, "Corozal", "Inundaciones, vientos fuertes.", "N/A", "Media" ]
+, [ 6, "B8DBB0DE-A9E2-4FF4-9A7A-2F5BCB589533", 6, 1536187487, "973530", 1536187487, "973530", null, "Coveñas", "Vientos,Oleaje", "N/A", "Media" ]
+, [ 7, "32ED4BE3-5846-4060-87F9-6542623EA955", 7, 1536187487, "973530", 1536187487, "973530", null, "Chalán", "Vientos fuertes, sequias, deslizamientos", "N/A", "Media" ]
+, [ 8, "AEA3EDF8-4FFA-4456-B650-E11C68BCDEA0", 8, 1536187487, "973530", 1536187487, "973530", null, "El Roble", "Sequias, vientos fuertes, inundaciones", "N/A", "Media" ]
+, [ 9, "61F9EF2C-BED1-4E95-BF88-DFE48C58779C", 9, 1536187487, "973530", 1536187487, "973530", null, "Galeras", "Inundaciones ,vientos fuertes, sequias", "Alta", "N/A" ]
+, [ 10, "84E451BD-4583-4C51-8236-06914E7BBE57", 10, 1536187487, "973530", 1536187487, "973530", null, "Guaranda", "Inundaciones, Sismo, vientos fuertes, tormentas eléctricas", "Alta", "N/A" ]
+, [ 11, "CF82BF94-206E-4256-BF5A-AFA0582231D8", 11, 1536187487, "973530", 1536187487, "973530", null, "La Unión", "Vientos fuertes, sequias", "N/A", "Media" ]
+, [ 12, "D2A52711-39A5-428C-8082-004B0942AA2E", 12, 1536187487, "973530", 1536187487, "973530", null, "Los Palmitos", "Viento, inundaciones, accidentes", "N/A", "Media" ]
+, [ 13, "69C795DA-90FB-49CC-84DE-222C4B0D0EEB", 13, 1536187487, "973530", 1536187487, "973530", null, "Majagual", "Inundaciones,Sismo, vientos fuertes, tormentas eléctricas", "Alta", "N/A" ]
+, [ 14, "71B0565E-FD2C-41EE-9946-9BF33F3DCBAA", 14, 1536187487, "973530", 1536187487, "973530", null, "Morroa", "Inundaciones, vientos fuertes", "N/A", "Media" ]
+, [ 15, "87C342B9-8EE7-42FB-96F0-ABFCFC576C18", 15, 1536187487, "973530", 1536187487, "973530", null, "Ovejas", "Deslizamientos, Vientos fuertes, sequias", "Alta", "N/A" ]
+, [ 16, "FA2F194A-FB84-4A2E-99DD-C030F771BC0C", 16, 1536187487, "973530", 1536187487, "973530", null, "Palmito", "Vientos fuertes", "N/A", "Media" ]
+, [ 17, "9376589C-9AC6-4A11-9F39-446718984C35", 17, 1536187487, "973530", 1536187487, "973530", null, "Sampués", "Vientos fuertes, Inundaciones", "Alta", "N/A" ]
+, [ 18, "78BD9C96-70EA-4C15-B852-583C98089154", 18, 1536187487, "973530", 1536187487, "973530", null, "San Benito Abad", "Inundaciones, Sismo, vientos", "Alta", "N/A" ]
+, [ 19, "B26D16AA-39DC-4E39-B4A1-E6F51B2C1AF3", 19, 1536187487, "973530", 1536187487, "973530", null, "San Juan De Betulia", "Sequias, vientos", "N/A", "Media" ]
+, [ 20, "49B1DD3A-C1B4-41B5-97CE-EA5F13B13D0E", 20, 1536187487, "973530", 1536187487, "973530", null, "San Marcos", "Inundaciones, Sismo", "Alta", "N/A" ]
+, [ 21, "B4CF6CEC-2936-4CCB-A594-8897A18C0A62", 21, 1536187487, "973530", 1536187487, "973530", null, "San Onofre", "Vientos ,inundaciones, oleaje", "Alta", "N/A" ]
+, [ 22, "9EEBB0E3-7F0C-42EE-BDDA-B8B5B710D420", 22, 1536187487, "973530", 1536187487, "973530", null, "San Pedro", "Sequia, vientos fuertes", "N/A", "Media" ]
+, [ 23, "BEDF1A68-366F-4450-A6CC-5430834AADA5", 23, 1536187487, "973530", 1536187487, "973530", null, "San Luis De Sincé", "Incendios, vientos fuertes, sequias", "Alta", "N/A" ]
+, [ 24, "65B242D2-EFE2-4F01-9B46-65E08ABE0C39", 24, 1536187487, "973530", 1536187487, "973530", null, "Sucre", "Inundaciones, vientos fuertes, Sismo", "Alta", "N/A" ]
+, [ 25, "F7C5CA25-2981-4ADB-9E0C-8E30277C3D54", 25, 1536187487, "973530", 1536187487, "973530", null, "Santiago De Tolú", "Vientos ,inundaciones, Oleaje", "N/A", "Media" ]
+, [ 26, "EE2AF820-8A28-479C-8A93-0FE3607A62E3", 26, 1536187487, "973530", 1536187487, "973530", null, "Tolú Viejo", "Vientos, inundaciones, deslizamientos", "N/A", "Media" ]
+ ]
+}
